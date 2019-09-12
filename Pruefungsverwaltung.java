@@ -18,12 +18,12 @@ public class Pruefungsverwaltung {
    * Gibt pro gespeichert Ergebnis einen Text auf die Konsole aus.
    * Je nachdem ob der Kandidate die Pruefung bestanden (>= 4.0) oder nicht
    * bestanden (< 4.0) hat, wird ein Text in folgendem Format ausgegeben:
-   * 
-   * Sie haben an der Pruefung eine 3.0 erzielt und 
+   * <p>
+   * Max Muster, Sie haben an der Prüfung die Note 3.0 erzielt und
    * sind somit durchgefallen!
-   * 
-   * Herzliche Gratulation Max Muster! Sie haben an der Pruefung eine 4.5
-   * erzielt und somit bestanden!
+   * <p>
+   * Herzliche Gratulation Max Muster! Sie haben an der Prüfung die Note 4.5
+   * erzielt und haben somit bestanden!
    */
   public void druckeAntworttexte() {
     // TODO Implementieren gemaess Aufgabenstellung
